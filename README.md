@@ -1,2 +1,3 @@
 stereo
-<img src="https://github.com/GugaLiz/GamePunishment/blob/br/2.x/images/demo1.gif" alt="show" />
+<img src="https://github.com/wqx854987945/-/blob/master/stereo.gif" alt="show" />
+
